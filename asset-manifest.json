@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bingo/static/css/main.5be85fc7.chunk.css",
-    "main.js": "/bingo/static/js/main.8b6c2ed2.chunk.js",
-    "main.js.map": "/bingo/static/js/main.8b6c2ed2.chunk.js.map",
-    "runtime-main.js": "/bingo/static/js/runtime-main.0fc3e100.js",
-    "runtime-main.js.map": "/bingo/static/js/runtime-main.0fc3e100.js.map",
-    "static/js/2.8da1320b.chunk.js": "/bingo/static/js/2.8da1320b.chunk.js",
-    "static/js/2.8da1320b.chunk.js.map": "/bingo/static/js/2.8da1320b.chunk.js.map",
-    "index.html": "/bingo/index.html",
-    "precache-manifest.77a7a6908d66cc9646be988549c8a189.js": "/bingo/precache-manifest.77a7a6908d66cc9646be988549c8a189.js",
-    "service-worker.js": "/bingo/service-worker.js",
-    "static/css/main.5be85fc7.chunk.css.map": "/bingo/static/css/main.5be85fc7.chunk.css.map"
+    "main.css": "/forked-bingo/static/css/main.5dd601ed.chunk.css",
+    "main.js": "/forked-bingo/static/js/main.fe1e75a3.chunk.js",
+    "main.js.map": "/forked-bingo/static/js/main.fe1e75a3.chunk.js.map",
+    "runtime-main.js": "/forked-bingo/static/js/runtime-main.e76db7d3.js",
+    "runtime-main.js.map": "/forked-bingo/static/js/runtime-main.e76db7d3.js.map",
+    "static/js/2.14e6b7b6.chunk.js": "/forked-bingo/static/js/2.14e6b7b6.chunk.js",
+    "static/js/2.14e6b7b6.chunk.js.map": "/forked-bingo/static/js/2.14e6b7b6.chunk.js.map",
+    "index.html": "/forked-bingo/index.html",
+    "precache-manifest.1fc73245e690dab36ac574b05e334175.js": "/forked-bingo/precache-manifest.1fc73245e690dab36ac574b05e334175.js",
+    "service-worker.js": "/forked-bingo/service-worker.js",
+    "static/css/main.5dd601ed.chunk.css.map": "/forked-bingo/static/css/main.5dd601ed.chunk.css.map"
   }
 }
